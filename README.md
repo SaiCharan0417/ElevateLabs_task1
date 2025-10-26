@@ -2,7 +2,7 @@
 # DATA ANALYTICS INTERNSHIP TASK-1
 
 # OBJECTIVE
-*clean and preprocess a raw dataset
+* clean and preprocess a raw dataset
 
 # Changes made to the existing sales_dataset:-
 * converted column headers into lower case
