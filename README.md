@@ -15,7 +15,7 @@
 * changed datatypes
 
 # DATASET
-* Superstore.csv from KAGGLE
+* Salesdata.csv from KAGGLE
 
 # KEY LEARNINGS
 * gained hands on experience in cleaing raw data
